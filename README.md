@@ -1,3 +1,3 @@
 # backgrounds
-
-This repository contains some backgrounds that I use for presentations. Feel free to use this!
+![](./images/gradient.gif)
+![](./images/in-the-sea.gif)
